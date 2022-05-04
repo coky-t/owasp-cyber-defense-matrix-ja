@@ -9,7 +9,7 @@ This is the unofficial Japanese translation of the [OWASP Cyber Defense Matrix](
 
 # OWASP サイバーディフェンスマトリクス 日本語版
 
-* [OWASP サイバーディフェンスマトリクス ](Document/index.md)
+* [OWASP サイバーディフェンスマトリクス](Document/index.md)
 * [リーダー](Document/leaders.md)
 
 ## License
