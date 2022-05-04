@@ -28,7 +28,7 @@
 
 この二つの次元を格子状に並べると、私たちが「サイバーディフェンスマトリクス」と呼ぶ五行五列のマトリクスになります。
 
-![Cyber Defense Matrix](/assets/images/CyberDefenseMatrix.png "Cyber Defense Matrix")
+![Cyber Defense Matrix](assets/images/CyberDefenseMatrix.png "Cyber Defense Matrix")
 
 このマトリクスにはもう一つ重要な箇所があります。格子の下部には、NIST Cybersecurity Framework の五つの運用機能を通じて、テクノロジ、人、プロセスへの依存度を特徴付ける連続体を示しています。識別 (IDENTIFY) と防御 (PROTECT) ではテクノロジ (TECHNOLOGY) の果たす役割が非常に大きくなります。検知 (DETECT)、対応 (RESPOND)、復旧 (RECOVER) と進むにつれて、テクノロジ (TECHNOLOGY) への依存度は低下し、人 (PEOPLE) への依存度は上昇します。五つの運用機能すべてを通じて、プロセス (PROCESS) への依存度は一貫しています。この連続体はサイバーセキュリティの課題に取り組む際に、人 (PEOPLE)、プロセス (PROCESS)、テクノロジ (TECHNOLOGY) への依存度のバランスが崩れている可能性がある場所を理解するのに役立ちます。
 
