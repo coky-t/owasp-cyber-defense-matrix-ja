@@ -7,7 +7,7 @@ This is the unofficial Japanese translation of the [OWASP Cyber Defense Matrix](
 - Project Site - <https://owasp.org/www-project-cyber-defense-matrix/>
 - Project Repository - <https://github.com/OWASP/www-project-cyber-defense-matrix>
 
-# OWASP サイバーディフェンスマトリクス 日本語版
+## OWASP サイバーディフェンスマトリクス 日本語版
 
 * [OWASP サイバーディフェンスマトリクス](Document/index.md)
 * [リーダー](Document/leaders.md)
