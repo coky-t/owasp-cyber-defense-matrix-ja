@@ -1,10 +1,12 @@
 # OWASP Cyber Defense Matrix ja
 
-This is the unofficial Japanese translation of the [OWASP Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/).
+This is the unofficial Japanese translation of the [OWASP Cyber Defense Matrix](https://github.com/OWASP/www-project-cyber-defense-matrix).
+
+- Document Repository - <https://github.com/coky-t/owasp-cyber-defense-matrix-ja>
 
 ### Originator
 
-- Project Site - <https://owasp.org/www-project-cyber-defense-matrix/>
+- Project Site - <https://web.archive.org/web/20230212032616/https://owasp.org/www-project-cyber-defense-matrix/>
 - Project Repository - <https://github.com/OWASP/www-project-cyber-defense-matrix>
 
 ## OWASP サイバーディフェンスマトリクス 日本語版
@@ -19,3 +21,6 @@ This is the unofficial Japanese translation of the [OWASP Cyber Defense Matrix](
 ## Translator (Japanese)
 
 [Koki Takeyama](https://github.com/coky-t)
+
+- Document Site - <https://coky-t.gitbook.io/owasp-docs-ja/>
+- Document Repository - <https://github.com/coky-t/owasp-docs-ja>
